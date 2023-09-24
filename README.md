@@ -1,4 +1,4 @@
-Hi ![](https://cdn-icons-png.flaticon.com/512/599/599527.png)My name is Aleksey
+Hi ![](https://media.tenor.com/TMXvlv2m4zEAAAAM/emodji-ball.gif)My name is Aleksey
 ===============================================================================================================================
 
 About me:
