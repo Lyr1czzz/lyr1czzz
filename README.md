@@ -1,4 +1,4 @@
-Hi ![](https://i.gifer.com/origin/dc/dc9122a4c67ff1272971880b17b21ce3_w200.gif)My name is Aleksey
+Hi <img src="https://i.gifer.com/origin/dc/dc9122a4c67ff1272971880b17b21ce3_w200.gif" width="30px"> My name is Aleksey
 ===============================================================================================================================
 
 About me:
