@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aleksey
+Hi ![](https://i.gifer.com/origin/c8/c82a8100d5da780e3b11a06257e9100d_w200.gif)My name is Aleksey
 ===============================================================================================================================
 
 About me:
