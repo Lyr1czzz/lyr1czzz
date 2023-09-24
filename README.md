@@ -1,10 +1,10 @@
-Hi <img src="https://i.gifer.com/origin/dc/dc9122a4c67ff1272971880b17b21ce3_w200.gif" width="30px"> My name is Aleksey
+Hi, My name is Aleksey
 ===============================================================================================================================
 
 About me:
 ---------
 
-I am an aspiring C# developer. My journey of learning programming started in high school, taking IT classes where I tried C#. After high school I studied C++ and Python in college. But in my 3rd year of college I realized that I was interested in C#, and to this day I am still developing my skills.
+I am an aspiring C# developer <img src="https://i.gifer.com/origin/dc/dc9122a4c67ff1272971880b17b21ce3_w200.gif" width="30px">. My journey of learning programming started in high school, taking IT classes where I tried C#. After high school I studied C++ and Python in college. But in my 3rd year of college I realized that I was interested in C#, and to this day I am still developing my skills.
 
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [Lyriczzz69@gmail.com](mailto:Lyriczzz69@gmail.com)
