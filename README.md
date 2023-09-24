@@ -6,6 +6,7 @@ About me:
 
 I am an aspiring C# developer <img src="https://i.gifer.com/origin/dc/dc9122a4c67ff1272971880b17b21ce3_w200.gif" width="30px">. My journey of learning programming started in high school, taking IT classes where I tried C#. After high school I studied C++ and Python in college. But in my 3rd year of college I realized that I was interested in C#, and to this day I am still developing my skills.
 
+- :telescope: Закончил курсы itlandia.
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Lyriczzz69@gmail.com)[![Telegram Badge](https://img.shields.io/badge/-Lyriczzz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lyriczzz)
 * 🧠  I'm learning .NET Core
