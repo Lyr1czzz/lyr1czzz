@@ -1,4 +1,4 @@
-Hi ![](https://media.tenor.com/TMXvlv2m4zEAAAAM/emodji-ball.gif)My name is Aleksey
+Hi ![](https://i.gifer.com/origin/dc/dc9122a4c67ff1272971880b17b21ce3_w200.gif)My name is Aleksey
 ===============================================================================================================================
 
 About me:
