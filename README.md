@@ -1,4 +1,4 @@
-Hi ![](https://i.gifer.com/origin/c8/c82a8100d5da780e3b11a06257e9100d_w200.gif)My name is Aleksey
+Hi ![](https://cdn-icons-png.flaticon.com/512/599/599527.png)My name is Aleksey
 ===============================================================================================================================
 
 About me:
