@@ -9,7 +9,7 @@ I am an aspiring C# developer <img src="https://i.gifer.com/origin/dc/dc9122a4c6
 - :telescope: Graduated from the course itlandia.
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Lyriczzz69@gmail.com)[![Telegram Badge](https://img.shields.io/badge/-Lyriczzz-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lyriczzz)
-* 🧠  I'm learning .NET Core
+* 🧠  I'm learning .NET Core and ASP
 
 ### Skills
 
